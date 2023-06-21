@@ -1,4 +1,3 @@
-# -tis_laba_3-
 echo "# -tis_laba_3-" >> README.md
 git init
 git add README.md
